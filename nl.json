@@ -2,8 +2,8 @@
 	"setting": {
 		"core": "Core",
 		"plugin": "Plugin",
-		"folder-path-example-placeholder": "Example: folder 1/folder 2",
-		"file-path-example-placeholder": "Example: folder/note",
+		"folder-path-example-placeholder": "Voorbeeld: folder 1/folder 2",
+		"file-path-example-placeholder": "Voorbeeld: folder/notitie",
 		"editor": {
 			"name": "Editor",
 			"option-spellcheck": "Spell check",
